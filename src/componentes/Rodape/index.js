@@ -22,7 +22,7 @@ return(
         </div>
     </div>
     <div className='limitar-secao direito-autoral'>
-        <p>Gelateria. Orgulhosamente desenvolvido por "nome do desenvolvedor"</p>
+        <p>Gelateria. Orgulhosamente desenvolvido por "Robson Renan"</p>
     </div>
     </footer>
 )
