@@ -7,13 +7,13 @@ return(
         <img src='assets/logo.png' alt='logomarca'/>
         <div>
         <h3>ENDEREÇO</h3>
-        <p>Av. Bernardino de Campos,98</p>
-        <p>São Paulo, SP 12345-678</p>
+        <p>Av. Eugenio Krause,1003</p>
+        <p>Santa Catarina, SC 88385-000</p>
         </div>
         <div>
         <h3>CONTATO</h3>
         <p>info@meusite.com</p>
-        <p>Tel: (11) 3456-7890</p>
+        <p>Tel: (47) 3456-9999</p>
         </div>
         <div>
         <h3>HORÁRIOS</h3>
